@@ -42,11 +42,13 @@ This dashboard explores a full year's Spotify data to uncover patterns in listen
 
 ## 📁 Repository Structure
 
-| File/Folder             | Description                                         |
-|-------------------------|-----------------------------------------------------|
-| `SpotifyDashboard.pbix` | Power BI file with data model and visualizations    |
-| `Dashboard.pdf`         | Static PDF export of the full dashboard                                    |
-| `README.md`             | This file                                           |
+| File/Folder                             | Description                                         |
+|-----------------------------------------|-----------------------------------------------------|
+| `README.md`                             | This file which contains description.               |
+| `Streaming_History_Audio_2024-2025.json`| This file contains our dataset used in dashboard    |
+| `SpotifyDashboard.pbix`                 | Power BI file with data model and visualizations    |
+| `Dashboard.pdf`                         | PDF file  of the full dashboard                     |
+
 
 
 ---
